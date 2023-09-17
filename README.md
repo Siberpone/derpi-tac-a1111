@@ -8,7 +8,7 @@ This is a plugin for [A1111 Tag Autocompletion Extension](https://github.com/Dom
 ![Luna is objectively best princess](showcase.jpg)
 
 # Installation
-Head on over to the [releases](releases) page and download the latest `derpibooru.csv` file. You need to put this file into the `.../stable-diffusion-webui/extensions/a1111-sd-webui-tagcomplete/tags` directory.
+Head on over to the [releases](https://github.com/Siberpone/derpi-tac-a1111/releases/latest) page and download the latest `derpibooru.csv` file. You need to put this file into the `.../stable-diffusion-webui/extensions/a1111-sd-webui-tagcomplete/tags` directory.
 
 Now it's time to configure the extension. Fire up your WebUI and go to `Settings -> Tag Autocomplete`. Select `derpibooru.csv` in the "Tag filename" drop-down. After you've done that, scroll all the way down until you see the big "Configure colors..." text box. Append the following section to the already existing text (don't forget to add a comma to the previous section):
 
